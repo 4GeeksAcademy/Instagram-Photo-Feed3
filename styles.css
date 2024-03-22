@@ -1,0 +1,116 @@
+body{
+    background-color: #BDBDBD;
+    margin: 0%;
+}
+header{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.cabecera h1{
+    display: flex;
+    justify-content: center;
+    margin:0%;
+}
+.cuerpo{
+    display: flex;
+    justify-content: center;
+}
+.box1{
+    background-color: white;
+    margin-top: 10px;
+    display: flexbox;
+    justify-content: center;
+    width: 30%;
+}
+div.box1 img{
+    width: 100%;
+}
+div.box1 .mini-cabecera div:first-child{
+    display: inline-block;
+    width: 80%;
+    background: green;
+}
+div.box1 .mini-cabecera div:last-child{
+    display: inline-block;
+    width: 18%;
+    text-align: right;
+    background: yellow;
+}
+div.box1 h2, div.box1 p{
+    padding: 10px;
+    margin: 0;
+}
+.box2{
+    background-color: white;
+    margin-top: 10px;
+    display: flexbox;
+    justify-content: center;
+    width: 30%;
+}
+div.box2 img{
+    width: 100%;
+}
+div.box2 .mini-cabecera div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.box2 .mini-cabecera div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+}
+div.box2 h2, div.box2 p{
+    padding: 10px;
+    margin: 0;
+}
+.box3{
+    background-color: white;
+    margin-top: 10px;
+    display: flexbox;
+    justify-content: center;
+    width: 30%;
+}
+div.box3 img{
+    width: 100%;
+}
+div.box3 .mini-cabecera div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.box3 .mini-cabecera div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10%;
+    text-align: right;
+}
+div.box3 h2, div.box3 p{
+    padding: 10px;
+    margin: 0;
+}
+.box4{
+    background-color: white;
+    margin-top: 10px;
+    display: flexbox;
+    justify-content: center;
+    width: 30%;
+}
+div.box4 img{
+    width: 100%;
+}
+div.box4 .mini-cabecera div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.box4 .mini-cabecera div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10%;
+    text-align: right;
+}
+div.box4 h2, div.box4 p{
+    padding: 10px;
+    margin: 0;
+}
